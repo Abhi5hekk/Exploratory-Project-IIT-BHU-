@@ -1,6 +1,6 @@
 # Exploratory-Project-IIT(BHU)
 
-## Implementation of Decision Tree and Random Forest classifiers in Python and Scala languages
+## 1. Implementation of Decision Tree and Random Forest classifiers in Python and Scala languages
 
 ### Python
 - Both classifiers use Python3 and don't need any third-party library
